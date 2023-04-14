@@ -25,7 +25,6 @@ fun BreakoutSpace() {
                 "https://static.videezy.com/system/resources/previews/000/005/553/original/Times_Square_Sidewalk.mp4",
                 "https://static.videezy.com/system/resources/previews/000/021/600/original/Origami-Pig-Time-Lapse-2078.mp4",
                 "https://static.videezy.com/system/resources/previews/000/046/981/original/beyaz_bulutlar_1_b11_c_5.mp4",
-                R.raw.transparent
             )
         )
 
